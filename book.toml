@@ -1,0 +1,6 @@
+[book]
+authors = ["Whimsward"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Entanglement"
