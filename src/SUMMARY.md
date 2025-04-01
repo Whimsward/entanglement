@@ -8,9 +8,9 @@
 
 - [The Path That Leads Home](./the_path_that_leads_home.md)
 
-- [First Turn of the Coin]()
+- [First Turn of the Coin](./first_turn_of_the_coin.md)
 
-- [The Falcon Witnesses a Birth]()
+- [The Falcon Witnesses a Birth]() //// TO DO ////
 
 - [Faced With Doubt, Finality Blinks](./faced_with_doubt_finality_blinks.md)
 
