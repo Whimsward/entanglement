@@ -12,6 +12,8 @@
 
 - [The Falcon Witnesses a Birth]()
 
+- [Faced With Doubt, Finality Blinks](./faced_with_doubt_finality_blinks.md)
+
 - [Truth in Five Words Eminent]()
 
 - [The Falcon Abandons His Sparrow]()
@@ -119,3 +121,11 @@
 - [Persaval Swears Quest]()
 
 [A Circle Closes]()
+
+---
+
+[Instant Metadimensional Transit](./instant_metadimensional_transit.md)
+
+[Souls Cast in the Kiln](./souls_cast_in_the_kiln.md)
+
+[Truth June '22](./truth_in_five_june_22.md)
