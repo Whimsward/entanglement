@@ -10,27 +10,29 @@
 
 - [First Turn of the Coin](./first_turn_of_the_coin.md)
 
-- [The Falcon Witnesses a Birth]() //// TO DO ////
+- [The Falcon Witnesses a Birth](./falcon_witnesses_a_birth.md)
+
+- [A Soul For the Kiln](./soul_for_the_kiln.md)
 
 - [Faced With Doubt, Finality Blinks](./faced_with_doubt_finality_blinks.md)
 
-- [Truth in Five Words Eminent]()
+- [Truth in Five Words Eminent](./truth_in_five_words_eminent.md)
 
-- [The Falcon Abandons His Sparrow]()
+- [The Falcon Abandons His Sparrow](./falcon_abandons_his_sparrow.md) //
 
-- [Regent, Recluse, Realmshorn, Recusant Reunited]()
+- [Regent, Recluse, Realmshorn, Recusant Reunited](./regent_recluse_realmshorn_recusant_reunited.md)
 
-- [Sunset. Stormwinds. Sworn Sword Sears.]()
+- [Sunset. Stormwinds. Sworn Sword Sears.](./sunset_stormwinds_sworn_sword_sears.md)
 
-- [From the Brink of Oblivion]()
+- [From the Brink of Oblivion](./from_the_brink_of_oblivion.md)
 
-- [Stricken By a Revenant Glare]()
+- [Stricken By a Revenant Glare](./stricken_by_a_revenant_glare.md)
 
-- [The Falcon and the Wilds]()
+- [The Falcon and the Wilds](./falcon_and_the_wilds.md)
 
-- [The Falcon By Wolf Devoured]()
+- [The Falcon By Wolf Devoured](./falcon_by_wolf_devoured.md)
 
-- [The Falcon Returns to Desolation]()
+- [The Falcon Returns to Desolation](./falcon_returns_to_desolation.md)
 
 # Part 2 - Extension
 
