@@ -18,7 +18,9 @@
 
 - [Truth in Five Words Eminent](./truth_in_five_words_eminent.md)
 
-- [The Falcon Abandons His Sparrow](./falcon_abandons_his_sparrow.md) //
+- [The Falcon Abandons His Sparrow](./falcon_abandons_his_sparrow.md) 
+
+---
 
 - [Regent, Recluse, Realmshorn, Recusant Reunited](./regent_recluse_realmshorn_recusant_reunited.md)
 
