@@ -56,7 +56,7 @@ The voice says, *I had wondered if minds here would be as pliant*. His tone is, 
 
 Her body will not move. It won’t respond to her at all. She aches to take a breath that won’t come. Her eyes burn. Her diaphragm tries to lurch, halts, cramps. Meanwhile the shape coheres in front of her, though her vision swims and flickers.
 
-Moments of blessed silence. Thoughts flare and race through her mind like a meteor across a night sky. She can’t track them, can’t keep hold of them, except that it’s *him*. He is doing this to her. Casually! Carelessly! The silence is snatched away.
+Moments of blessed silence. Thoughts flare and race through her mind like meteors across a night sky. She can’t track them, can’t keep hold of them, except that it’s *him*. He is doing this to her. Casually! Carelessly! The silence is snatched away.
 
 *You must understand my caution. You are not one of those who destroyed my body and cast me out, yet report of it echoes in your thoughts. How could that have been? My first discovery was that this place has somehow laid dormant to the Paradigms for all of its history, until some errant thread tied me to that other.*
 
