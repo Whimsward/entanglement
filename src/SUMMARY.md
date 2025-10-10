@@ -4,41 +4,41 @@
 
 # Part 1 - Association
 
-- [It Broke. This is How.](./it_broke_this_is_how.md)
+- [It Broke. This is How.](./david_chapters/it_broke_this_is_how.md)
 
-- [The Path That Leads Home](./the_path_that_leads_home.md)
+- [The Path That Leads Home](./lila_chapters/the_path_that_leads_home.md)
 
-- [First Turn of the Coin](./first_turn_of_the_coin.md)
+- [First Turn of the Coin](./david_chapters/first_turn_of_the_coin.md)
 
-- [The Falcon Witnesses a Birth](./falcon_witnesses_a_birth.md)
+- [The Falcon Witnesses a Birth](./mere_chapters/falcon_witnesses_a_birth.md)
 
-- [A Soul For the Kiln](./soul_for_the_kiln.md)
+- [A Soul For the Kiln](./lila_chapters/soul_for_the_kiln.md)
 
-- [Faced With Doubt, Finality Blinks](./faced_with_doubt_finality_blinks.md)
+- [Faced With Doubt, Finality Blinks](./david_chapters/faced_with_doubt_finality_blinks.md)
 
 - [Truth in Five Words Eminent](./truth_in_five_words_eminent.md)
 
-- [The Falcon Abandons His Sparrow](./falcon_abandons_his_sparrow.md)
+- [The Falcon Abandons His Sparrow](./mere_chapters/falcon_abandons_his_sparrow.md)
 
-- [Regent, Recluse, Realmshorn, Recusant Reunited](./regent_recluse_realmshorn_recusant_reunited.md)
+- [Regent, Recluse, Realmshorn, Recusant Reunited](./mere_chapters/regent_recluse_realmshorn_recusant_reunited.md)
 
-    - [Realmshorn](./r5_realmshorn.md)
+    - [Realmshorn](./mere_chapters/r5_realmshorn.md)
 
-    - [Recusant](./r5_recusant.md)
+    - [Recusant](./mere_chapters/r5_recusant.md)
 
-- [Sunset. Stormwinds. Sworn Sword Sears.](./sunset_stormwinds_sworn_sword_sears.md)
+- [Sunset. Stormwinds. Sworn Sword Sears.](./david_chapters/sunset_stormwinds_sworn_sword_sears.md)
 
 ---
 
-- [From the Brink of Oblivion](./from_the_brink_of_oblivion.md)
+- [From the Brink of Oblivion](./lila_chapters/from_the_brink_of_oblivion.md)
 
-- [Stricken By a Revenant Glare](./stricken_by_a_revenant_glare.md)
+- [Stricken By a Revenant Glare](./david_chapters/stricken_by_a_revenant_glare.md)
 
-- [The Falcon and the Wilds](./falcon_and_the_wilds.md)
+- [The Falcon and the Wilds](./mere_chapters/falcon_and_the_wilds.md)
 
-- [The Falcon By Wolf Devoured](./falcon_by_wolf_devoured.md)
+- [The Falcon By Wolf Devoured](./mere_chapters/falcon_by_wolf_devoured.md)
 
-- [The Falcon Returns to Desolation](./falcon_returns_to_desolation.md)
+- [The Falcon Returns to Desolation](./mere_chapters/falcon_returns_to_desolation.md)
 
 # Part 2 - Extension
 
@@ -52,7 +52,11 @@
 
 - [A Letter From the Tyrant]()
 
-- [Kella 1]()
+- [Back](./david_chapters/back.md)
+
+- [No Circle Can Be Perfect](./kella_chapters/no_circle_can_be_perfect.md)
+
+- [Running](./david_chapters.running.md)
 
 - [Kella 2]()
 
@@ -132,8 +136,8 @@
 
 ---
 
-[Instant Metadimensional Transit](./instant_metadimensional_transit.md)
+[Instant Metadimensional Transit](./david_chapters/instant_metadimensional_transit.md)
 
-[Souls Cast in the Kiln](./souls_cast_in_the_kiln.md)
+[Souls Cast in the Kiln](./lila_chapters/souls_cast_in_the_kiln.md)
 
 [Truth June '22](./truth_in_five_june_22.md)
