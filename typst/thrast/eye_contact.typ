@@ -1,6 +1,8 @@
 #import "../common_features.typ": *
 #show: doc_part
 
+#one_pov[Thrast][#eye #star #eye]
+
 He can feel the eyes. The boy, pathetic in Lila's memory, some victim of the folly of the Sword Sword and his saboteurs. That young man should be of no concern in the face of all the rest there is to do. And yet, Thrast feels _watched_.
 
 Thrast descends to where Lila waits, having wrought some ruin for herself and bearing only malice towards him. He drifts down to either cajole or console her--he is not sure which--but piercing through her own glare are the eyes of her brother.
