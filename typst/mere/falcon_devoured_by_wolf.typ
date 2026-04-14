@@ -14,15 +14,21 @@
 
 Stormwatch Keep sat atop a cliff overlooking the Bay of Goletha. It was named for its express purpose, in rather blunt Qastran fashion. To protect the interior from the worst of the storms, the sea-facing wall was helmed by a sloped roof that deflected the brunt of the winds. But that roof, and despite it, left the keep's interior dark, close, and irretrievably damp.
 
-The Falcon God of Messengers stepped into a weak glow of torchlight that had stretched itself from a handful of torches on every far end of the Keep's south tower, which housed a small but functional Marshall's Gate. Directly across from her was the only exit to the room, even more abandoned by the torchlight that the Gate's exit. In the shadow of that doorway she saw a pair of Legionaires, given away by the glint of their polished armor.
+The Falcon God of Messengers stepped into a weak glow of torchlight that had stretched itself from a handful of torches on every far end of the vault of the Keep's south tower, which housed a small but functional Marshall's Gate. Directly across from her was the only exit to the room, even more abandoned by the torchlight that the Gate's exit. In the shadow of that doorway she saw a pair of Legionaires, given away by the glint of their polished armor.
 
-One of those shadowed soldiers spoke up, "Who comes hence unbidden? What host do you herald?"
+One of those shadowed soldiers spoke up, flustered, "Who comes to this hall? What host do you herald?"
 
 "I herald none but myself," Mere answered, measuring her tone. "I am the Falcon of Naris, and I carry with me messages for the posts of the keep and the manor town below." She patted the satchel slung across her body. It wasn't _brimming_ with letters, but had been enough to warrant coming through by gate.
 
-Muttered discussion reached her ears as a low hum along the stones. A different voice responded, "My watch partner is newly sworn, lady Falcon. He has not yet learned to recognize your signs. I hope that the Gods of Naris are not offended."
+Muttered discussion reached her ears in the form of a low hum along the stones. A different voice responded, "My watch partner is new to the post, lady Falcon. He has not yet learned to recognize your signs. I hope that the Gods of Naris are not offended."
 
-"Not in the slightest," she said. "I applaud your caution and acknowledge your deference. May I see myself to your postmaster?"
+"They are not," she said. "I applaud your caution and acknowledge your deference. May I see myself to your postmaster?"
+
+The first soldier stepped into the light. He was... not what she expected. 
+
+   said, "If it pleases my lady, shall I serve an escort? I could use the practice."
+
+
 
 
 
