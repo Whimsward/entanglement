@@ -24,11 +24,19 @@ Muttered discussion reached her ears in the form of a low hum along the stones. 
 
 "They are not," she said. "I applaud your caution and acknowledge your deference. May I see myself to your postmaster?"
 
-The first soldier stepped into the light. He was... not what she expected. 
+#let lost_boy = (
+    name: "Perdigar",
+    description: [
+        He was... not what she expected. Younger, slimmer, and carried about not by a typical unearned confidence but by whatever animus tucked his arms behind his back in parade rest even though he had moved towards action. His eyes were not still, but cutting little small strokes across the surface of the Falcon mask, as if desperate to find the right angle that would allow them access to what the mask hid.
+    ],
 
-   said, "If it pleases my lady, shall I serve an escort? I could use the practice."
+)
 
+The first soldier stepped into the light. #lost_boy.description A resonance had struck immediately. He knew.
 
+He said, "If it pleases my lady, shall I serve an escort? I could use the practice."
+
+Mere said, "It does please me, sir."
 
 
 
