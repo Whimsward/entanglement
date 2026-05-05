@@ -38,7 +38,7 @@ He said, "If it pleases my lady, shall I serve an escort? I could use the practi
 
 Mere said, "It does please me, sir."
 
-
+Walking through corridors in Stormwatch was a private affair by happy circumstance. The constant damp muted one's footfalls, but also presaged each with the slightest of splashes, which made Mere feel almost like the halls were bending in to listen.
 
 #block[
     #softbreak
