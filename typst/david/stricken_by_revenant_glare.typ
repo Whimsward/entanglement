@@ -83,4 +83,6 @@ He'd been raised better than to ignore a doctor's orders.
 
 #dinkus()
 
+#include "what_dreams.typ"
+
 #include "../persaval/the_eye_is_a_threat.typ"

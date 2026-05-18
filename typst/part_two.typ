@@ -3,6 +3,8 @@
 
 #part_declaration()[#pdgm(2)]
 
+#include "david/o_my_god_im_back.typ"
+
 - [!] The Haunting of the Aspenwood
 
 - [!] Like Arrows Drawn in Sand

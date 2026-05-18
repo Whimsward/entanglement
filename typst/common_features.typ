@@ -12,14 +12,14 @@
     #name]]
 
 #let prol(name) = align(center)[
-  #heading()[Prologue: 
-  #name
-]]
+  #heading()[Prologue:
+    #name
+  ]]
 
 #let epil(name) = align(center)[
   #heading()[Epilogue:
-  #name
-]
+    #name
+  ]
 ]
 
 #let mid_prose(content) = align(center)[
@@ -36,14 +36,14 @@
 
 #let dinkus() = align(center)[
   #set text(size: 16pt)
-  
+
   #str.from-unicode(0x0001F660)
   #str.from-unicode(0x0001F65F)
   #str.from-unicode(0x0001F660)
-  
+
 ]
 
-#let one_pov(name,scene_type) = figure()[
+#let one_pov(name, scene_type) = figure()[
   #align(center)[
     #table(columns: 1)[#name][#scene_type]
   ]
@@ -60,21 +60,33 @@
   Ex: "Extension",
   D: "Domination",
   Ed: "Edification",
-  S: "Separation"
+  S: "Separation",
 )
 
 #let pdgm(num) = if num == 1 [Association] else [
   #if num == 2 [Extension] else [
-      #if num == 3 [Domination] else [
-    #if num == 4 [Edification] else [
-      #if num == 5 [Separation]]
-  ]]
+    #if num == 3 [Domination] else [
+      #if num == 4 [Edification] else [
+        #if num == 5 [Separation]]
+    ]]
 ]
 
 #let coin = str.from-unicode(0x0001FA99)
 #let bird = str.from-unicode(0x0001F426)
 #let eye = str.from-unicode(0x0001F441)
+
+#let alchair = str.from-unicode(0x0001F701)
+#let alchfire = str.from-unicode(0x0001F702)
+#let alchearth = str.from-unicode(0x0001F703)
 #let alchwater = str.from-unicode(0x0001F704)
+#let alchash = str.from-unicode(0x0001F757)
+
+#let sunrise = str.from-unicode(0x0001F305)
+#let downward = str.from-unicode(0x0001F4C9)
+#let black_heart = str.from-unicode(0x0001F5A4)
+#let jolted = str.from-unicode(0x0001F5F1)
+
+#let fire = str.from-unicode(0x0001F525)
 #let xswords = str.from-unicode(0x00002694)
 #let ribbon = str.from-unicode(0x0001F380)
 #let chains = str.from-unicode(0x000026D3)
@@ -97,8 +109,8 @@
 #let part_declaration(content) = page()[
   #align(center + horizon)[
     #set text(size: 5em)
-    #heading(numbering: "I:",depth: 1)[#content]
-    
+    #heading(numbering: "I:", depth: 1)[#content]
+
   ]
 ]
 
@@ -106,8 +118,8 @@
   #import "common_features.typ": *
   #import "@preview/cheq:0.3.0": *
   #import "@preview/wordometer:0.1.5": *
-  #set par(first-line-indent: (amount: 1em,all: true))
-  #set page(header: total-words,numbering: "1")
+  #set par(first-line-indent: (amount: 1em, all: true))
+  #set page(header: total-words, numbering: "1")
   #show: checklist
   #show: word-count
   #content
