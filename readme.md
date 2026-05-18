@@ -21,7 +21,7 @@ Something I've realized since starting my revision is that David reflects a past
 That was where the first draft went in the end.
 Now, on the other side of realizing that ideation of my own death is something I will have to combat, albeit thankfully distantly for now, for the rest of my life, I don't think I'm interested in that ending.
 
-Similarly, I've gotten feedback that people want to see more of the world, to experience a rich fantasy that feels more loved in and to observe more weight on then characters.
+Similarly, I've gotten feedback that people want to see more of the world, to experience a rich fantasy that feels more lived-in and to observe more weight on the characters.
 
 I don't know if I can do all of that in one project.
 
