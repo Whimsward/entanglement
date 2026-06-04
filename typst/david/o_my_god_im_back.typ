@@ -6,7 +6,10 @@
 
 #two_pov[Lila][David][#sunrise #alchwater #damocles]
 
-She feels him first. Maybe "feel" isn't the right word. Yes, photons that have bounced off of his body hit her eyes in the same microsecond as the
+Time doesn't move right anymore.
+
+
+//She feels him first. Maybe "feel" isn't the right word. Yes, photons that have bounced off of his body hit her eyes in the same microsecond as the
  // I do not currently have a good enough understanding of the electromagnetic physics behind how information is carried in wireless signals to be able to accurately state whether phone-Lila would get a ping from David's phone before her physical brain could process the first waves of light that hit her eyes after bouncing off David's body.
  // 
  // What happens here first is the startled reaction of both siblings to the sudden transfer, or perhaps if it's more interesting the startled reaction both siblings have to in some way knowing that this shift was coming in advance.
