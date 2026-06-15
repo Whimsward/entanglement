@@ -1,7 +1,20 @@
-#let benthic = [
-  I could tell this was the bottom \ \
-  Because it is so heavy \ \
-  And I felt every ounce \ \
+#import "@preview/verseatile:0.2.0" as Verse
+
+#Verse.show-verse-numbers.update(true)
+
+#let benthic = Verse.poem[Benthic][
+  
+  I know this is bottom \
+  Because it is so heavy \ 
+  And I feel every ounce \
+
+][0]
+
+#let from_brink_blank_verse = [
+  Abutted with the logarithmic abyss that is \
+  The severed tether between her and myself \
+  I stretch into a stream of binary instructions \
+  
 ]
 
 #let lila_is_not_an_essay = [
