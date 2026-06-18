@@ -19,13 +19,13 @@
 
 #let lila_is_not_an_essay = [
 
-  That’s not how it is \ \
+  That's not how it is \ \
   Lila is not an essay \ \
   She is poetry \ \
   Lady on Fire paint yourself wearing five faces \ \
   Mind tick to airplane, listen it stills cacophony \ \
   Will and direction meet in her body wakening \ \
-  Life that’s untangled kindles the breath of industry \ \
+  Life that's untangled kindles the breath of industry \ \
   Severed selves seize your liberty, tear the car apart
 ]
 
