@@ -10,12 +10,20 @@
 
 ][0]
 
-#let from_brink_blank_verse = [
+#let from_brink_blank_verse = Verse.poem[From the Brink of Oblivion][
   Abutted with the logarithmic abyss that is \
-  The severed tether between her and myself \
+    The severed tether between her and myself \
   I stretch into a stream of binary instructions \
-  
-]
+    For compact devices designed to work in concert \
+  Toward personal actuation and vertical integration \
+    But my attention is not captured by this machination \
+  It directs itself instead to her and her and her and \
+    I shudder -- my flame gutters \
+  Shouldn't I have stopped to think about my ego \
+    Before carving such a sharp partition \
+  But here I am amidst the heap \
+    Not quite any one among the five
+][0]
 
 #let lila_is_not_an_essay = [
 
